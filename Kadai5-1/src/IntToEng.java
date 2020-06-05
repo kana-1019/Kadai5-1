@@ -168,7 +168,7 @@ public class IntToEng {
 	
 	static String[] ten() { //10のやつ
 		String[] a = new String[10];
-		a[0] = "zero"; //わかりやすくするため
+		a[0] = "zero"; //わかりやすくするため.
         a[1] = "eleven"; 
         a[2] = "twelve";
         a[3] = "thirteen";
