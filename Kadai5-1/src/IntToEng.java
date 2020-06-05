@@ -153,7 +153,7 @@ public class IntToEng {
 	
 	static String[] tens() { //10の位
 		String[] a = new String[10];
-		a[0] = "zero"; //わかりやすくするため
+		a[0] = "zero"; //わかりやすくするため/
         a[1] = "ten"; 
         a[2] = "twenty";
         a[3] = "thirty";
